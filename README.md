@@ -1,17 +1,22 @@
 ### Hi there 👋
-
-- 🌱 I’m currently learning ... <img src="[https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)">
-
-## 📝 stack
+#### Backend Developer | Minkyu Park | [Contact](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=aowlrsnfk1@gmail.com)
 
 
-<img src="[https://img.shields.io/badge/Spring](https://img.shields.io/badge/Spring) Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=white">
+<br>
 
-<img src="[https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)">
+### Stack
+***
+* Java 
+* SpringBoot 
+* MySQL 
+* Git
 
-<img src="[https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)">
-<img src="[https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)">
-<img src="[https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white](https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white)">
+***
+
+![Yun's github stats](https://github-readme-stats.vercel.app/api?username=Minkyu222341&show_icons=true&theme=merko)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minkyu222341&layout=compact&exclude_repo=cheese10yun.github.io,Yun-Blog,intellij-settings)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
