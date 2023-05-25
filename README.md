@@ -10,6 +10,7 @@
 * SpringBoot 
 * MySQL 
 * Git
+* JPA / MYBATIS
 
 ***
 
