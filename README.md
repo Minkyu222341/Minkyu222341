@@ -8,7 +8,7 @@
 ***
 * Java 
 * SpringBoot 
-* MySQL 
+* MySQL / Postgresql
 * Git
 * JPA / MYBATIS
 
