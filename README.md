@@ -6,9 +6,9 @@
 
 ### Stack
 ***
-* Java 
-* SpringBoot 
+* Java
 * MySQL / Postgresql
+* SpringBoot 
 * JPA / MYBATIS
 * Git
 * Jira / Notion / Slack  
