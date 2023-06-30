@@ -10,8 +10,8 @@
 * MySQL / Postgresql
 * SpringBoot 
 * JPA / MYBATIS
-* Git
-* Jira / Notion / Slack  
+* Git 
+* Jira / Notion / Slack / Atlassian 
 ***
 
 ![Yun's github stats](https://github-readme-stats.vercel.app/api?username=Minkyu222341&show_icons=true&theme=merko)
