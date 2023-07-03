@@ -10,7 +10,8 @@
 * MySQL / Postgresql
 * SpringBoot 
 * JPA / MYBATIS
-* Git 
+* Git
+* Swagger
 * Jira / Notion / Slack / Atlassian 
 ***
 
