@@ -13,11 +13,6 @@
 * Git
 * Swagger
 * Jira / Notion / Slack / Atlassian 
-***
-
-![Minkyu's github stats](https://github-readme-stats.vercel.app/api?username=Minkyu222341&show_icons=true&theme=merko)
-
-
 
 
 <!--
