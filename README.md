@@ -11,7 +11,6 @@
 * SpringBoot 
 * JPA / MYBATIS
 * Jira / Notion / Slack / Atlassian
-* Swagger
 
 
 <!--
